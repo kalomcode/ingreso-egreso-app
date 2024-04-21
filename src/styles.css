@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.cursor {
+  cursor: pointer;
+}
+
+.auto-form-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+}

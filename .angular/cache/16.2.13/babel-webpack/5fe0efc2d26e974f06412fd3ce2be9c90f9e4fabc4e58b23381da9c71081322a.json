@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const authGuard = (route, state) => {\n  return true;\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

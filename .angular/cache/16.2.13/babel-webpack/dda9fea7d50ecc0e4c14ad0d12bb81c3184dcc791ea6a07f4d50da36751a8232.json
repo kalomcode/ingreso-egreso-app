@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction } from '@ngrx/store';\nexport const isLoading = createAction('[UI Component] isLoading');\nexport const stopLoading = createAction('[UI Component] stopLoading');","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

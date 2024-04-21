@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { AuthService } from './auth.service';\nimport { inject } from '@angular/core';\nexport const authGuard = (route, state) => {\n  const authSvc = inject(AuthService);\n  return authSvc.isAuth().pipe();\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
